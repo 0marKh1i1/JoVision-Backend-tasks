@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Greeter.Controllers.GreeterController",
+    "Method": "Get",
+    "RelativePath": "Greeter",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

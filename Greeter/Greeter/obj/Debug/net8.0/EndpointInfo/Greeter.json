@@ -1,0 +1,32 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Greeter",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Greeter": {
+      "get": {
+        "tags": [
+          "Greeter"
+        ],
+        "parameters": [
+          {
+            "name": "name",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "default": "anonymous"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

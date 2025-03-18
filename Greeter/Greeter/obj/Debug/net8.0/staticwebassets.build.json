@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OGPtsYtCeF8nmocl5ELRtkM19L38/TlA29UWczJXKY8=",
+  "Source": "Greeter",
+  "BasePath": "_content/Greeter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
